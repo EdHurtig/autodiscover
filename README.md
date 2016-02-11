@@ -2,6 +2,8 @@
 
 Ping this app with your hostname to track your public IP
 
+> WARNING: This is gross and awful and something I hacked years ago with minimal effort
+
 # App Setup
 
 1. Create a mysql database and user.  
