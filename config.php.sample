@@ -1,0 +1,6 @@
+<?php 
+define('AUTH', 'secret_code');
+
+// Your MySQL Connection Info
+$db = mysql_connect( 'sql_host', 'sql_user', 'sql_password' );
+mysql_select_db( 'sql_db_name', $db );
